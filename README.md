@@ -4,12 +4,12 @@
 
 - 👋 Hi, There.
 - 👀 ML, Image Processing, NLP, Data Science
-- 🇰🇷  Working at South Korea
 - 📫 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:vore25@gmail.com)
 
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
+- 🇰🇷  Working at South Korea
 
 kjkim-kr/kjkim-kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
