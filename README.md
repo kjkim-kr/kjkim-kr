@@ -1,14 +1,16 @@
+Introduction
+- 👋 Hi, There. I'm a data, and math oriented programmer
+- 👀 ML, Image Processing, NLP, Data Science, Java Backend
+- 🇰🇷 Working at South Korea
+- 🌱 I'm always aiming to make today better than yesterday
 
-
-![line](https://camo.githubusercontent.com/7a6101afba1cf35d6ad12e06d223aa6e9dec50932fab0ea8da0ddc36d888decd/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7265637426636f6c6f723d6772616469656e74266865696768743d31)
-- 👋 Hi, There.
-- 👀 ML, Image Processing, NLP, Data Science
-
-![line](https://camo.githubusercontent.com/7a6101afba1cf35d6ad12e06d223aa6e9dec50932fab0ea8da0ddc36d888decd/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7265637426636f6c6f723d6772616469656e74266865696768743d31)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjkim-kr&theme=great-gatsby&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjkim-kr&layout=compact)
-
+Git History<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjkim-kr&theme=great-gatsby&show_icons=true) 
+<br><br>
+Top Languages<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjkim-kr&layout=compact)
+<br><br>
+Hits<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjkim-kr&count_bg=%23C2C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
